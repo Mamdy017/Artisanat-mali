@@ -1,0 +1,14 @@
+// Le lien du wp-admin avec  les identifiants et mot de passe
+
+https://artisanat22.epizy.com/donkoshop/
+
+// identifiant
+admin
+
+// Mot de passe 
+
+pass
+
+// le lien du site
+
+https://artisanat22.epizy.com/
